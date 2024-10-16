@@ -15,10 +15,9 @@ A Discord bot that automatically deletes messages in a specified channel after a
 1. **Unzip the File:**
 
    ```bash
-   git clone https://github.com/b1olz/auto_bypass
+   git clone https://github.com/b1olz/auto_delete
    cd auto_delete
-   
-
+   ```
 2. **Install dependencies:**
 
    Ensure you have [Node.js](https://nodejs.org/) installed. Then run:
