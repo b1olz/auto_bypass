@@ -1,0 +1,13 @@
+{
+  "name": "auto_delete",
+  "version": "1.0.0",
+  "description": "A Discord bot by StefanDevz that automatically deletes messages in a specified channel after a set period.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0" // Ensure to use the latest version available
+  },
+  "license": "GPL-3.0"
+}
