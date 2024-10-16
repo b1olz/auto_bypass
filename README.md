@@ -1,6 +1,4 @@
-Here’s a sample `README.md` for your Discord bot, including a description, setup instructions, usage details, and the GNU v3 license:
 
-```markdown
 # Discord Auto-Delete Bot
 
 A Discord bot that automatically deletes messages in a specified channel after a set period. The bot can log deleted messages to a designated log channel and allows for optional deletion of bot messages.
@@ -17,9 +15,9 @@ A Discord bot that automatically deletes messages in a specified channel after a
 1. **Unzip the File:**
 
    ```bash
-   wget "RELEASE_URL"
+   git clone https://github.com/b1olz/auto_bypass
    cd auto_delete
-   ```
+   
 
 2. **Install dependencies:**
 
@@ -29,9 +27,9 @@ A Discord bot that automatically deletes messages in a specified channel after a
    npm install
    ```
 
-3. **Create a `config.json` file:**
+3. **Setup a `config.json` file:**
 
-   Create a `config.json` file in the root directory of the project with the following structure:
+   Setup a `config.json` file in the root directory of the project with the following structure:
 
    ```json
    {
@@ -84,10 +82,5 @@ If you wish to contribute to this project, please fork the repository and create
 - ! CallmezYokoz : Owner (with me)
 
 - Sukoi : Moderator
-```
-
-### Instructions for Use:
-- Replace `yourusername` in the clone URL with your actual GitHub username or the appropriate repository URL.
-- Ensure you have a `LICENSE` file in the root directory containing the GNU v3 license text. You can get the text from the [GNU website](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 This `README.md` provides clear instructions for setting up and using your Discord bot, along with legal licensing information.
